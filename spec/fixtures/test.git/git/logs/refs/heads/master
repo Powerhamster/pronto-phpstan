@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 5c536eb2d95ad0864f3ed5ba1cac4d21fa20602a root <root@WS1.localdomain> 1516479261 +0100	commit (initial): init
+5c536eb2d95ad0864f3ed5ba1cac4d21fa20602a 4bfa265ad16e801c24f3bd1696baa1016ba26d1a Thomas Rothe <th.rothe@gmail.com> 1516479386 +0100	commit (amend): init
+4bfa265ad16e801c24f3bd1696baa1016ba26d1a e3744cc6c4a04c12a6b99f57b361d5367d653c36 Thomas Rothe <th.rothe@gmail.com> 1516479413 +0100	commit (amend): init
+e3744cc6c4a04c12a6b99f57b361d5367d653c36 27603aea3fa0300fd3e5ec73b10d13848f2750da Thomas Rothe <th.rothe@gmail.com> 1516479459 +0100	commit: added call for bar()
+27603aea3fa0300fd3e5ec73b10d13848f2750da e3744cc6c4a04c12a6b99f57b361d5367d653c36 Thomas Rothe <th.rothe@gmail.com> 1516479719 +0100	reset: moving to HEAD~1

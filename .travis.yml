@@ -1,0 +1,12 @@
+language: php
+php:
+  - 7.0
+env:
+  - PRONTO_PHPSTAN_EXECUTABLE="$HOME/.composer/vendor/bin/phpstan" PRONTO_PHPSTAN_AUTOLOADER="spec/fixtures/test.git/Test.php"
+before_install:
+  - rvm install 2.2.3
+  - gem install bundler -v 1.13.3
+install:
+  - composer global require phpstan/phpstan
+  - bundle install
+script: bundle exec rake
